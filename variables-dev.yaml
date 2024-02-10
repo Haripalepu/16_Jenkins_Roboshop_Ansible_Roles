@@ -20,7 +20,7 @@ SHIPPING_HOST: shipping.alb-dev.haripalepu.cloud
 
 DISPATCH: dispatch.alb-dev.haripalepu.cloud
 
-NEXUS_URL: http://44.210.142.46:8081/repository/ #give the url
+NEXUS_URL: http://172.31.84.182:8081/repository/ #give the url
 
 group_id: "com/roboshop"
 
